@@ -17,4 +17,4 @@ Architecture: all
 Depends: curl, ${misc:Depends}
 Description: SSL curl wrapper
  Simple wrapper called scurl, that adds "--tlsv1 --proto =https" in front of
- all invocations of curl.
+ all invocations of "curl" when running "scurl".
