@@ -18,3 +18,7 @@ Depends: curl, ${misc:Depends}
 Description: SSL curl wrapper
  Simple wrapper called scurl, that adds "--tlsv1 --proto =https" in front of
  all invocations of "curl" when running "scurl".
+ .
+ For better security/usability.
+ .
+ Safe to remove if you are not using this.
