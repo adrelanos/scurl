@@ -3,6 +3,10 @@
 Simple wrapper called scurl, that adds "--tlsv1 --proto =https" in front of
 all invocations of "curl" when running "scurl".
 
+For better security/usability.
+
+Safe to remove if you are not using this.
+
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
 # Manual Page #
