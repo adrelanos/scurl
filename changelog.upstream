@@ -1,3 +1,17 @@
+commit 11aa4822b227084debf69099be600e8845062766
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 31 20:57:14 2016 +0000
+
+    upgrade from curl usage from --tlsv1 to --tlsv1.2
+    
+    https://phabricator.whonix.org/T489
+
+commit 9336852c7b87726d285935935800af47a4138481
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:08:18 2015 +0000
+
+    bumped changelog version
+
 commit e262dd77c385d9ffdef1e34b9c96356f54ddaa2d
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 15:00:12 2015 +0000
