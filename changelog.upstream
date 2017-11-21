@@ -1,3 +1,34 @@
+commit 10e1b8f43e66be2507035ef5d7d6c7ef4d4d884d
+Merge: 060447d caebc97
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Nov 7 01:10:50 2017 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 060447d09d8a419872bf069fee82fd1766c4432c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 6 20:16:18 2017 +0000
+
+    tlsv1.3 -> tlsv1.2 since stretch's version of curl does not have tlsv1.3
+
+commit c295e70280e4036e0764c058c06f1df611dc6c08
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 6 20:15:52 2017 +0000
+
+    add curl-download and scurl-download
+
+commit caebc97cfcbbb488fa0c2b3f263c858f84494074
+Author: Jason J. Ayala P <JasonJAyalaP+Github@Gmail.com>
+Date:   Wed Sep 6 13:24:19 2017 -0500
+
+    1.3 not ready, changed to --tlsv1.2
+
+commit ec987c3b931f991d3249ba676813a86f8a747fa9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jul 26 14:36:27 2017 +0000
+
+    bumped changelog version
+
 commit d8c01fdf134dc3e66488fde637f809254c2d6daf
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jul 26 14:09:17 2017 +0000
