@@ -1,3 +1,15 @@
+commit a7a0358bca21969acfd0b189aa7539af89641786
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Nov 21 22:51:24 2017 +0000
+
+    add manpages
+
+commit 093e094e7313e7f2d02b0f0e471e5244d3e2e2ef
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Nov 21 22:42:50 2017 +0000
+
+    bumped changelog version
+
 commit 10e1b8f43e66be2507035ef5d7d6c7ef4d4d884d
 Merge: 060447d caebc97
 Author: Patrick Schleizer <adrelanos@riseup.net>
