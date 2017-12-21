@@ -1,6 +1,6 @@
 # SSL curl wrapper #
 
-Simple wrapper called scurl, that adds "--tlsv1.3 --proto =https" in front of
+Simple wrapper called scurl, that adds "--tlsv1 --proto =https" in front of
 all invocations of "curl" when running "scurl".
 
 For better security/usability.
