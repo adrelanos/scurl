@@ -1,3 +1,9 @@
+scurl (3:2.1-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Thu, 01 Feb 2018 15:16:07 +0000
+
 scurl (3:2.0-1) unstable; urgency=medium
 
   * New upstream version (local package).
