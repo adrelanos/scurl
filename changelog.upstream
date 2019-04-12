@@ -1,3 +1,52 @@
+commit e200c6e38c395406840894820ba8ae9bd8bdc374
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Apr 12 15:24:22 2019 +0000
+
+    scurlget
+    curlget
+    
+    https://phabricator.whonix.org/T899
+    
+    https://forums.whonix.org/t/scurl-wrapper-problem/7125/4
+
+commit 77c0239e681b316540890cbe2b60db819b3047e6
+Merge: 4a53f1a f6a7325
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Apr 12 15:16:31 2019 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f6a7325bf3915d95bba2f64d1a74d5c204e009b1
+Merge: 4a53f1a ec967f1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Apr 12 15:15:33 2019 +0000
+
+    Merge pull request #1 from Xavier-nix/hotfix/file_saving
+    
+    Fix file saving issues
+
+commit ec967f1400f3c1002fccfd493744e16f0dd38f4b
+Author: Xavier-nix <49506421+Xavier-nix@users.noreply.github.com>
+Date:   Fri Apr 12 14:53:52 2019 +0000
+
+    improved file saving by download-wrappers
+    
+    https://phabricator.whonix.org/T899
+
+commit 38e072b6f51cafc282a929769ab976b6341d3d57
+Author: Xavier-nix <49506421+Xavier-nix@users.noreply.github.com>
+Date:   Fri Apr 12 14:52:29 2019 +0000
+
+    removed forced file saving by main wrapper
+    
+    https://phabricator.whonix.org/T899
+
+commit 4a53f1a8cdd97725681e13217ab3cea28bf1f4f4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Apr 6 12:12:02 2019 +0000
+
+    bumped changelog version
+
 commit 0495e62c8027dbec4377c89f3bbaef6948c1233d
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 4 05:51:06 2019 -0400
